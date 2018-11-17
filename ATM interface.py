@@ -75,7 +75,7 @@ tom.sysstart()
 # I learned the exit() function.
 # Through research on stackoverflow I learned how I could implement this application in real life using a database.
 # I learned how to store, and add user input to the values stored in a text file.
-
+# I plan to optimize the functions in the while loops, by using a new function, to follow the DRY principle.
 # Bugs: Balance stays at 1000, even when using jenny to initiate program.; Maybe a type error between int, and str in the input fields.
 
 
